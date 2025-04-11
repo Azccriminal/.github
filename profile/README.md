@@ -2,9 +2,9 @@
 ## About Us  
 **Azccriminal**, also known as **AzenCompiler Open Source Foundation Criminal**, is a community focused on software development from a different perspective.  
 Our primary goal is to provide a **platform structure** based on **cybersecurity** and **technology**.  
-You can explore a wide range of software we have developed in the **[Services](https://azccriminal.github.io/services.html)** section.
+You can explore a wide range of software we have developed in the **[Services](https://azccriminal.space/services.html)** section.
 
-To support us, visit our **[Contact Us](https://azccriminal.github.io/contact.html)** page to donate or contribute to our **source tree structure**.
+To support us, visit our **[Contact Us](https://azccriminal.space/contact.html)** page to donate or contribute to our **source tree structure**.
 
 ---
 
@@ -37,6 +37,6 @@ We live and act according to our **ideology**, investing profits back into our *
 ---
 
 ## Explore Our Services  
-Discover our innovative projects and services by visiting the **[Services](https://azccriminal.github.io/services.html)** section.
+Discover our innovative projects and services by visiting the **[Services](https://azccriminal.space/services.html)** section.
 
-For support or partnership inquiries, please reach out through our **[Contact Us](https://azccriminal.github.io/contact.html)** page.
+For support or partnership inquiries, please reach out through our **[Contact Us](https://azccriminal.space/contact.html)** page.
